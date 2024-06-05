@@ -60,7 +60,7 @@
 
     // console.log(pemainTobat)
 
-    // 8. Includes : Method includes digunakan untuk mengecek apakah sebuah array memilik element tertentu.
+    // 8. Includes : Method includes digunakan untuk mengecek apakah sebuah array memilik element tertentu. Output bouleaan
 // bentuk fungsinya .includes
 // contoh penggunaannya :
 
